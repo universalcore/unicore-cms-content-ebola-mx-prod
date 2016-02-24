@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "spa_ES", 
+  "title": "\u00bfSi estoy embarazada puedo usar repelentes de mosquitos?", 
+  "primary_category": "b6822c7a9def4fe182d1b0c51f932d9f", 
+  "created_at": "2016-02-24T06:57:31.001391+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-02-24T06:57:31.001588+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "S\u00ed, las mujeres embarazadas que consideren est\u00e1n expuestas a lugares donde proliferan los mosquitos, pueden utilizar repelentes de insectos que est\u00e9n aprobados para su uso durante el embarazo. Ac\u00e9rcate a tu centro de salud y preg\u00fantales cu\u00e1les son los repelentes indicados que puedes encontrar en tu comunidad.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "si-estoy-embarazada-puedo-usar-repelentes-de-mosquitos", 
+  "uuid": "cfc5e2b9a4834bdbbe9df88596725f8d"
+}
