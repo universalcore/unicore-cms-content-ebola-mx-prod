@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "spa_ES", 
+  "title": "\u00bfQu\u00e9 es la microcefalia?", 
+  "primary_category": "b6822c7a9def4fe182d1b0c51f932d9f", 
+  "created_at": "2016-02-24T07:01:03.032061+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-02-24T07:01:03.032296+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "La microcefalia es una afecci\u00f3n muy poco frecuente cuyas causas pueden ser gen\u00e9ticas o ambientales (t\u00f3xicas, radiaciones o infecciosas). Se define como una condici\u00f3n al nacer en la que la circunferencia de la cabeza del beb\u00e9 es menor a la esperada para la edad al nacer y el sexo. \r\n\r\nLa medici\u00f3n m\u00e1s confiable para valorar si un beb\u00e9 tiene microcefalia se puede hacer en el nacimiento y con mayor precisi\u00f3n a las 24 horas de nacido. Es muy dificil conocer las consecuencias de la microcefalia en el momento del nacimiento, por lo que requiere un seguimiento y valoraci\u00f3n de los reci\u00e9n nacidos, con controles y evaluaciones posteriores. No existe un tratamiento espec\u00edfico para la microcefalia.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "que-es-la-microcefalia", 
+  "uuid": "e6662576ccf9407698722d01a4817189"
+}
