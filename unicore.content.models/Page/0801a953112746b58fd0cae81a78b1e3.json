@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "1be1dacea893429a911cd29d6ddb0f9c"
+  ], 
   "id": null, 
   "content": "A los pacientes con s\u00edntomas de Zika se les recomienda acudir a su centro de salud m\u00e1s cercano para que sean valorados. \r\n\r\nPor el momento no hay vacuna ni medicamento espec\u00edfico contra este virus, por lo que lo m\u00e1s recomendable es descansar, consumir muchos l\u00edquidos. Tu m\u00e9dico puede recetar medicamentos contra la fiebre y los dolores como paracetamol y alg\u00fan remedio contra la picaz\u00f3n. Al igual que con el dengue debes evitar medicinas a base de \u00e1cido acetilsalic\u00edlico (aspirina), por eso es muy importante que no tomes ninguna medicina sin antes consultar con tu m\u00e9dico.\r\n\r\nRecuerda descansar bajo mosquiteros y usar ropa que cubra las extremidades para evitar ser picado por un mosquito y que se siga transmitiendo el virus. \r\n\r\nSi los s\u00edntomas empeoran o aparecen otras complicaciones, debes consultar al m\u00e9dico de tu centro de salud de forma inmediata.\r\n", 
   "source": null, 
