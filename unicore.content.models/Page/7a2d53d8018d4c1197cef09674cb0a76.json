@@ -6,19 +6,19 @@
   "primary_category": "e3a77b05d98744c78a26c1ff1ed73eca", 
   "created_at": "2016-02-24T07:11:38+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-02-25T19:53:47.972937+00:00", 
+  "modified_at": "2016-02-25T19:55:31.965852+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "97dd5929545641d1b5e850e760cb2e7b"
   ], 
   "id": null, 
-  "content": "El Zika es un virus que transmite el mosquito *Aedes*, que es el mismo que transmite dengue y chikungunya. \r\n\r\nEl virus del Zika se est\u00e1 propagando r\u00e1pido y a gran escala; tanto que, en muchas partes de Am\u00e9rica Latina y el Caribe, ya constituye una emergencia de salud p\u00fablica. No existen vacunas contra esta enfermedad.\r\n \r\nLos s\u00edntomas del Zika son fiebre leve, conjuntivitis, dolores de cabeza y en las articulaciones, as\u00ed como erupciones en la piel o sarpullido. Estos s\u00edntomas pueden comenzar entre 2 y 7 d\u00edas despu\u00e9s de la picadura del mosquito y s\u00f3lo 1 en cada 4 personas con Zika desarrollan s\u00edntomas.", 
+  "content": "El Zika es un virus que transmite el mosquito *Aedes*, que es el mismo que transmite dengue y chikungunya. \r\n\r\nEl virus del Zika se est\u00e1 propagando r\u00e1pido y a gran escala; tanto que, en muchas partes de Am\u00e9rica Latina y el Caribe, ya constituye una emergencia de salud p\u00fablica. No existen vacunas contra esta enfermedad.\r\n \r\nLos s\u00edntomas del Zika son fiebre leve, conjuntivitis, dolores de cabeza y en las articulaciones, as\u00ed como erupciones en la piel o sarpullido. Estos s\u00edntomas pueden comenzar entre 2 y 7 d\u00edas despu\u00e9s de la picadura del mosquito y s\u00f3lo 1 en cada 4 personas con Zika desarrollan s\u00edntomas. En un n\u00famero muy peque\u00f1o de personas se pueden encontrar complicaciones despu\u00e9s de que se enferman con el virus.\r\n\r\nSi usted muestra s\u00edntomas o le diagnostican Zika, ayude a prevenir la infecci\u00f3n de otros miembros de su familia evitando las picaduras de mosquito.", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
