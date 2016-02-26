@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "UNICEF ayuda a prevenir la transmisi\u00f3n del Zika y su impacto en ni\u00f1os y familias de comunidades desfavorecidas", 
+  "description": "UNICEF ayuda a prevenir la transmisi\u00f3n del Zika y su impacto en ni\u00f1os y familias, especialmente en las comunidades m\u00e1s desfavorecidas", 
   "language": "spa_ES", 
   "title": "\u00bfQu\u00e9 medidas est\u00e1 llevando a cabo UNICEF?", 
   "primary_category": "b6822c7a9def4fe182d1b0c51f932d9f", 
   "created_at": "2016-02-25T20:30:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-02-25T20:40:33.153517+00:00", 
+  "modified_at": "2016-02-26T18:26:37.359692+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
